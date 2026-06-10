@@ -15,15 +15,6 @@ I'm currently working as a **Data Analyst freelancer.** <br>I'm looking for clie
 
 
 ### ✍️ Random Dev Quote
-
-![Quote](https://readme-typing-svg.herokuapp.com?font=Georgia&size=20&duration=6000&pause=1000&color=F7A800&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=80&lines="Exploring+till+the+explosion")
-
----
-
-<div align="center">
-
-![Quote Card](./quote_card.svg)
-
-</div>
+![Quote](https://readme-typing-svg.herokuapp.com?font=Georgia&size=22&duration=4000&pause=1000&color=F7A800&center=true&vCenter=true&width=600&lines=Exploring+till+the+explosion+✨)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
