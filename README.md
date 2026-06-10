@@ -1,6 +1,5 @@
 # 💫 About Me:
 **Myself Sayedani , HOLA ✨**<br>
-# 💫 About Me:
 I'm currently working as a **Data Analyst freelancer.** <br>I'm looking for clients. <br>Ask me about:- books , food, music , writting, data , etc.<br>Fun facts:- I love to try everything.<br><br>
 
 
