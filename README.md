@@ -12,7 +12,5 @@ I'm currently working as a Data Analyst freelancer.<br>I'm looking for clients.Â
 ![](https://streak-stats.demolab.com/?user=SAYEDANI-29&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SAYEDANI-29&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=SAYEDANI-29&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
