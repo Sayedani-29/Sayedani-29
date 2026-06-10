@@ -15,7 +15,12 @@ I'm currently working as a **Data Analyst freelancer.** <br>I'm looking for clie
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
+<div align="center">
+<table><tr><td style="background-color:#0d1117; border-left: 4px solid #0077ff; padding: 20px; border-radius: 8px;">
+<em><b>"Exploring till the explosion"</b></em>
+<br><br>
+<div align="right">— Sayedani</div>
+</td></tr></table>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
