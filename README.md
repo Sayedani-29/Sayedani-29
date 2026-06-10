@@ -15,12 +15,6 @@ I'm currently working as a **Data Analyst freelancer.** <br>I'm looking for clie
 
 
 ### ✍️ Random Dev Quote
-<div align="center">
-<table><tr><td style="background-color:#0d1117; border-left: 4px solid #0077ff; padding: 20px; border-radius: 8px;">
-<em><b>"Exploring till the explosion"</b></em>
-<br><br>
-<div align="right">— Sayedani</div>
-</td></tr></table>
-</div>
+![Quote](https://readme-typing-svg.herokuapp.com?font=Georgia&size=22&duration=4000&pause=1000&color=F7A800&center=true&vCenter=true&width=600&lines=Exploring+till+the+explosion+✨+🔥)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
